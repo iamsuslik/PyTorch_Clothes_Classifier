@@ -9,3 +9,6 @@
 2. TorchVision
 3. NumPy
 4. Matplotlib
+
+# Результаты на тестовой выборке
+<img width="1023" height="890" alt="image" src="https://github.com/user-attachments/assets/a747dc38-6deb-44ce-b105-d3d4321d3ef4" />
